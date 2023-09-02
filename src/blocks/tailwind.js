@@ -175,30 +175,30 @@ const sources = [
     category: 'Blog',
     // order: 1
   },
-  {
-    id: 'contact-block-1',
-    class: '',
-    label: c1s,
-    content: c1,
-    category: 'Contact',
-    // order: 1
-  },
-  {
-    id: 'contact-block-2',
-    class: '',
-    label: c2s,
-    content: c2,
-    category: 'Contact',
-    // order: 1
-  },
-  {
-    id: 'contact-block-3',
-    class: '',
-    label: c3s,
-    content: c3,
-    category: 'Contact',
-    // order: 1
-  },
+  // {
+  //   id: 'contact-block-1',
+  //   class: '',
+  //   label: c1s,
+  //   content: c1,
+  //   category: 'Contact',
+  //   // order: 1
+  // },
+  // {
+  //   id: 'contact-block-2',
+  //   class: '',
+  //   label: c2s,
+  //   content: c2,
+  //   category: 'Contact',
+  //   // order: 1
+  // },
+  // {
+  //   id: 'contact-block-3',
+  //   class: '',
+  //   label: c3s,
+  //   content: c3,
+  //   category: 'Contact',
+  //   // order: 1
+  // },
   {
     id: 'content-block-1',
     class: '',
@@ -295,30 +295,30 @@ const sources = [
     category: 'CTA',
     // order: 1
   },
-  {
-    id: 'commerce-block-1',
-    class: '',
-    label: e1s,
-    content: e1,
-    category: 'Commerce',
-    // order: 1
-  },
-  {
-    id: 'commerce-block-2',
-    class: '',
-    label: e2s,
-    content: e2,
-    category: 'Commerce',
-    // order: 1
-  },
-  {
-    id: 'commerce-block-3',
-    class: '',
-    label: e3s,
-    content: e3,
-    category: 'Commerce',
-    // order: 1
-  },
+  // {
+  //   id: 'commerce-block-1',
+  //   class: '',
+  //   label: e1s,
+  //   content: e1,
+  //   category: 'Commerce',
+  //   // order: 1
+  // },
+  // {
+  //   id: 'commerce-block-2',
+  //   class: '',
+  //   label: e2s,
+  //   content: e2,
+  //   category: 'Commerce',
+  //   // order: 1
+  // },
+  // {
+  //   id: 'commerce-block-3',
+  //   class: '',
+  //   label: e3s,
+  //   content: e3,
+  //   category: 'Commerce',
+  //   // order: 1
+  // },
   {
     id: 'feature-block-1',
     class: '',
@@ -527,22 +527,22 @@ const sources = [
     category: 'Hero',
     // order: 1
   },
-  {
-    id: 'pricing-block-1',
-    class: '',
-    label: p1s,
-    content: p1,
-    category: 'Pricing',
-    // order: 1
-  },
-  {
-    id: 'pricing-block-2',
-    class: '',
-    label: p2s,
-    content: p2,
-    category: 'Pricing',
-    // order: 1
-  },
+  // {
+  //   id: 'pricing-block-1',
+  //   class: '',
+  //   label: p1s,
+  //   content: p1,
+  //   category: 'Pricing',
+  //   // order: 1
+  // },
+  // {
+  //   id: 'pricing-block-2',
+  //   class: '',
+  //   label: p2s,
+  //   content: p2,
+  //   category: 'Pricing',
+  //   // order: 1
+  // },
   {
     id: 'statistic-block-1',
     class: '',

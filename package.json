@@ -1,11 +1,11 @@
 {
-    "name": "grapesjs-tailwind",
-    "version": "1.0.10",
-    "description": "Grapesjs Tailwind",
+    "name": "grapesjs-tailwind-ltd",
+    "version": "1.0.11",
+    "description": "Grapesjs Tailwind Ltd.",
     "main": "dist/grapesjs-tailwind.min.js",
     "repository": {
         "type": "git",
-        "url": "https://github.com/Ju99ernaut/grapesjs-tailwind.git"
+        "url": "https://github.com/lokeshpahal/grapesjs-tailwind.git"
     },
     "scripts": {
         "start": "grapesjs-cli serve",
